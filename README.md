@@ -18,11 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ayushjain3577/leetcode_solutions/tree/master/0010-regular-expression-matching) |
+| [0115-distinct-subsequences](https://github.com/ayushjain3577/leetcode_solutions/tree/master/0115-distinct-subsequences) |
 | [1250-longest-common-subsequence](https://github.com/ayushjain3577/leetcode_solutions/tree/master/1250-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ayushjain3577/leetcode_solutions/tree/master/0010-regular-expression-matching) |
+| [0115-distinct-subsequences](https://github.com/ayushjain3577/leetcode_solutions/tree/master/0115-distinct-subsequences) |
 | [1250-longest-common-subsequence](https://github.com/ayushjain3577/leetcode_solutions/tree/master/1250-longest-common-subsequence) |
 ## Recursion
 |  |
