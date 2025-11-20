@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayushjain3577/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0118-pascals-triangle](https://github.com/ayushjain3577/leetcode_solutions/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushjain3577/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1127-last-stone-weight](https://github.com/ayushjain3577/leetcode_solutions/tree/master/1127-last-stone-weight) |
 ## Two Pointers
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/ayushjain3577/leetcode_solutions/tree/master/0010-regular-expression-matching) |
 | [0115-distinct-subsequences](https://github.com/ayushjain3577/leetcode_solutions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/ayushjain3577/leetcode_solutions/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushjain3577/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1250-longest-common-subsequence](https://github.com/ayushjain3577/leetcode_solutions/tree/master/1250-longest-common-subsequence) |
 ## Recursion
 |  |
