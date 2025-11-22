@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ayushjain3577/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0118-pascals-triangle](https://github.com/ayushjain3577/leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushjain3577/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/ayushjain3577/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [1127-last-stone-weight](https://github.com/ayushjain3577/leetcode_solutions/tree/master/1127-last-stone-weight) |
 ## Two Pointers
 |  |
@@ -96,4 +97,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/ayushjain3577/leetcode_solutions/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/ayushjain3577/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ayushjain3577/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
