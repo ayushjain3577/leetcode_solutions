@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/ayushjain3577/leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushjain3577/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ayushjain3577/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/ayushjain3577/leetcode_solutions/tree/master/0130-surrounded-regions) |
 | [1127-last-stone-weight](https://github.com/ayushjain3577/leetcode_solutions/tree/master/1127-last-stone-weight) |
 ## Two Pointers
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/ayushjain3577/leetcode_solutions/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ayushjain3577/leetcode_solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ayushjain3577/leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0130-surrounded-regions](https://github.com/ayushjain3577/leetcode_solutions/tree/master/0130-surrounded-regions) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ayushjain3577/leetcode_solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ayushjain3577/leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/ayushjain3577/leetcode_solutions/tree/master/0127-word-ladder) |
+| [0130-surrounded-regions](https://github.com/ayushjain3577/leetcode_solutions/tree/master/0130-surrounded-regions) |
 ## Binary Tree
 |  |
 | ------- |
@@ -104,8 +107,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ayushjain3577/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/ayushjain3577/leetcode_solutions/tree/master/0130-surrounded-regions) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ayushjain3577/leetcode_solutions/tree/master/0013-roman-to-integer) |
+## Matrix
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/ayushjain3577/leetcode_solutions/tree/master/0130-surrounded-regions) |
 <!---LeetCode Topics End-->
