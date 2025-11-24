@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/ayushjain3577/leetcode_solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/ayushjain3577/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/ayushjain3577/leetcode_solutions/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/ayushjain3577/leetcode_solutions/tree/master/0131-palindrome-partitioning) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/ayushjain3577/leetcode_solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/ayushjain3577/leetcode_solutions/tree/master/1250-longest-common-subsequence) |
 ## Dynamic Programming
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/ayushjain3577/leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushjain3577/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ayushjain3577/leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/ayushjain3577/leetcode_solutions/tree/master/0131-palindrome-partitioning) |
 | [1250-longest-common-subsequence](https://github.com/ayushjain3577/leetcode_solutions/tree/master/1250-longest-common-subsequence) |
 ## Recursion
 |  |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/ayushjain3577/leetcode_solutions/tree/master/0130-surrounded-regions) |
+## Backtracking
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/ayushjain3577/leetcode_solutions/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
