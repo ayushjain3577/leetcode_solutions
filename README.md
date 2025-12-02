@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayushjain3577/leetcode_solutions/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/ayushjain3577/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0118-pascals-triangle](https://github.com/ayushjain3577/leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushjain3577/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ayushjain3577/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ayushjain3577/leetcode_solutions/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/ayushjain3577/leetcode_solutions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/ayushjain3577/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0115-distinct-subsequences](https://github.com/ayushjain3577/leetcode_solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/ayushjain3577/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/ayushjain3577/leetcode_solutions/tree/master/0127-word-ladder) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ayushjain3577/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/ayushjain3577/leetcode_solutions/tree/master/0139-word-break) |
 ## Memoization
 |  |
